@@ -19,6 +19,17 @@ En cuanto a la similitud, todos los nodos son círculos amarillos, lo que hace q
 Respecto a la continuidad, se conectan los puntos correctamente. La ley de continuidad se manifiesta de forma muy agresiva a través de la gruesa línea blanca que conecta los puntos de los años, el cerebro tiende a seguir trayectorias visuales ininterrumpidas, por lo que esta línea fuerza la mirada del espectador en una única dirección diagonal ascendente, enmascarando la falsa representación del último dato.
 Según la ley del cierre, se puede observar que el gráfico	está saturado de colores que y que hay un título, que rompen la armonía y desconcentran al espectador. Finalmente, si analizamos la ley de simetría, el diseño destaca precisamente por romperla de manera intencionada para manipular la lectura.
 Por último, la ley de simetría indica que una composición equilibrada transmite orden y permite un análisis pausado, aquí, el diseño destaca precisamente por romperla de manera intencionada para manipular la lectura: es radicalmente asimétrico. El enorme título superior “Apujarem el salari mínim a 1.184€” desequilibra el gráfico frente a la gigantesca flecha roja del “+61%”' en el extremo inferior derecho, secuestrando la atención hacia los eslóganes y no hacia los datos.
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 ### Fase 2: Adquisición y Preprocesamiento de Datos
