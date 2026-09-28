@@ -31,5 +31,4 @@ class Fase2:
 # MAIN
 if __name__ == "__main__":
     fase2 = Fase2()
-    # 2. Llamamos al método
     fase2.ver_datos()
