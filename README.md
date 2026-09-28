@@ -4,6 +4,7 @@
 ![Grafico a analizar](img/enganoso.png)
 ​​
 ### Fase 1: “Caza” y Diagnóstico Teórico de la Mentira Visual
+```text
 Analizando la visualización bajo los principios de Edward Tufte, vemos que el principio de mostrar datos reales se cumplen, ya que si buscamos en páginas oficiales del estado, hay coherencia.
 Por otro lado, el diseño del gráfico viola el principio de inducir al espectador a pensar en los datos. En lugar de presentar la información clara para un análisis objetivo, la visualización utiliza recursos de diseño como el tamaño gigante de la cifra “1.184€” y los colores para imponer una narrativa visual.
 En cuanto a la representación de datos se puede ver una clara alteración en los datos de 2024 y los propuestos en 2025, encontramos un “Lie Factor” ya que el gráfico aumenta más que en otros años, por ejemplo la subida de 2019 y 2020 que es de 50€ (igual a la de 2024 a 2025) tiene un incremento mayor.
@@ -18,9 +19,10 @@ En cuanto a la similitud, todos los nodos son círculos amarillos, lo que hace q
 Respecto a la continuidad, se conectan los puntos correctamente. La ley de continuidad se manifiesta de forma muy agresiva a través de la gruesa línea blanca que conecta los puntos de los años, el cerebro tiende a seguir trayectorias visuales ininterrumpidas, por lo que esta línea fuerza la mirada del espectador en una única dirección diagonal ascendente, enmascarando la falsa representación del último dato.
 Según la ley del cierre, se puede observar que el gráfico	está saturado de colores que y que hay un título, que rompen la armonía y desconcentran al espectador. Finalmente, si analizamos la ley de simetría, el diseño destaca precisamente por romperla de manera intencionada para manipular la lectura.
 Por último, la ley de simetría indica que una composición equilibrada transmite orden y permite un análisis pausado, aquí, el diseño destaca precisamente por romperla de manera intencionada para manipular la lectura: es radicalmente asimétrico. El enorme título superior “Apujarem el salari mínim a 1.184€” desequilibra el gráfico frente a la gigantesca flecha roja del “+61%”' en el extremo inferior derecho, secuestrando la atención hacia los eslóganes y no hacia los datos.
+```
 
 ### Fase 2: Adquisición y Preprocesamiento de Datos
-    xxxx
+
 
 ### Fase 3: Rediseño Gráfico y Programación de la Interactividad
     xxxx
