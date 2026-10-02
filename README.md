@@ -20,7 +20,9 @@ Según la ley del cierre, se puede observar que el gráfico	está saturado de co
 Por último, la ley de simetría indica que una composición equilibrada transmite orden y permite un análisis pausado, aquí, el diseño destaca precisamente por romperla de manera intencionada para manipular la lectura: es radicalmente asimétrico. El enorme título superior “Apujarem el salari mínim a 1.184€” desequilibra el gráfico frente a la gigantesca flecha roja del “+61%”' en el extremo inferior derecho, secuestrando la atención hacia los eslóganes y no hacia los datos.
 
 ### Fase 2: Adquisición y Preprocesamiento de Datos
-Para encontrar los datos he 
+Para encontrar los datos he accedido a la siguinete web del gobierno de Espana: https://www.mites.gob.es/estadisticas/bel/SMI/index.htm
+He procesado los datos de 3 formas distintas, siendo la primera la reconfiguración y ordenación lógica del dataset, para garantizar que el motor grafico lee el eje temporal correcto. Por otro lado tambien he realizado un agrupamiento lógico de variables, para separar datos reales de promesas políticas, como es el caso del ano 2025. Finalmente he normalizado los datos teniendo en cuenta la inflación, para permitir ver al especatdor la cifra real del SMI (Salario Minimo Interprofesional).
 
 ### Fase 3: Rediseño Gráfico y Programación de la Interactividad
-chart.js
+Para realizar los graficos he usado la libreria de plotly. Los 2 graficos que he decidido implementar han sido uno de lineas, para mejorar el grafico enganoso y por otro lado, un grafico de radar. En ambos casos estan tanto los datos reales como los enganosos para que el usuario pueda comparar los datos.
+La parte interactiva es que cuando pasas el cursor por un punto se puede ver con mas detalle la informacion del mismo. 
